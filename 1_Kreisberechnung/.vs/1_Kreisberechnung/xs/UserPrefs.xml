@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9F024122-CBAD-48CB-A661-FF3AE9FAEFBC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1_Kreisberechnung/Program.cs">
+    <Files>
+      <File FileName="1_Kreisberechnung/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1_Kreisberechnung" expanded="True">
+            <Node name="1_Kreisberechnung" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1__Kreisberechnung FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

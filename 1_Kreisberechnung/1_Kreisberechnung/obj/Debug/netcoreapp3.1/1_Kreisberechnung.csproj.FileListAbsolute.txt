@@ -1,0 +1,11 @@
+/Users/fabianbuehlmann/Dev/bs_oop/1_Kreisberechnung/1_Kreisberechnung/bin/Debug/netcoreapp3.1/1_Kreisberechnung
+/Users/fabianbuehlmann/Dev/bs_oop/1_Kreisberechnung/1_Kreisberechnung/bin/Debug/netcoreapp3.1/1_Kreisberechnung.deps.json
+/Users/fabianbuehlmann/Dev/bs_oop/1_Kreisberechnung/1_Kreisberechnung/bin/Debug/netcoreapp3.1/1_Kreisberechnung.runtimeconfig.json
+/Users/fabianbuehlmann/Dev/bs_oop/1_Kreisberechnung/1_Kreisberechnung/bin/Debug/netcoreapp3.1/1_Kreisberechnung.runtimeconfig.dev.json
+/Users/fabianbuehlmann/Dev/bs_oop/1_Kreisberechnung/1_Kreisberechnung/bin/Debug/netcoreapp3.1/1_Kreisberechnung.dll
+/Users/fabianbuehlmann/Dev/bs_oop/1_Kreisberechnung/1_Kreisberechnung/bin/Debug/netcoreapp3.1/1_Kreisberechnung.pdb
+/Users/fabianbuehlmann/Dev/bs_oop/1_Kreisberechnung/1_Kreisberechnung/obj/Debug/netcoreapp3.1/1_Kreisberechnung.csprojAssemblyReference.cache
+/Users/fabianbuehlmann/Dev/bs_oop/1_Kreisberechnung/1_Kreisberechnung/obj/Debug/netcoreapp3.1/1_Kreisberechnung.AssemblyInfoInputs.cache
+/Users/fabianbuehlmann/Dev/bs_oop/1_Kreisberechnung/1_Kreisberechnung/obj/Debug/netcoreapp3.1/1_Kreisberechnung.AssemblyInfo.cs
+/Users/fabianbuehlmann/Dev/bs_oop/1_Kreisberechnung/1_Kreisberechnung/obj/Debug/netcoreapp3.1/1_Kreisberechnung.dll
+/Users/fabianbuehlmann/Dev/bs_oop/1_Kreisberechnung/1_Kreisberechnung/obj/Debug/netcoreapp3.1/1_Kreisberechnung.pdb
