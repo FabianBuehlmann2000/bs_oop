@@ -20,26 +20,30 @@ namespace _1_Kreisberechnung
 
                 response = Console.ReadLine().ToString();
 
-                float r = getFloat("Radius"); //get radius
                 float a = 0; //float for angle
+                float r = 0; //float for radius
 
                 switch (response)
                 {
                     case "1": //Umfang
+                        r = getFloat("Radius: ");
                         Console.WriteLine((2*r*pi).ToString());
                         break;
 
                     case "2": //Fläche
+                        r = getFloat("Radius: ");
                         Console.WriteLine((r*r*pi).ToString());
                         break;
 
                     case "3": //Bogen
-                        a = getFloat("Winkel"); //get angle
+                        r = getFloat("Radius: ");
+                        a = getFloat("Winkel: "); //get angle
                         Console.WriteLine(((r*pi*a) / 180).ToString());
                         break;
 
                     case "4": //Segment
-                        a = getFloat("Winkel"); //get angle
+                        r = getFloat("Radius: ");
+                        a = getFloat("Winkel: "); //get angle
                         Console.WriteLine(((r*r*pi*a) / 360).ToString());
                         break;
 
@@ -54,7 +58,7 @@ namespace _1_Kreisberechnung
             }
         }
 
-        //returns user input as float (no error handling)
+        //returns user input as float
         static float getFloat(String info)
         {
             Console.Write(info);
